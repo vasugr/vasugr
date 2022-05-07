@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasugr
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
