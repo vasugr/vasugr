@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasugr)](https://github.com/anuraghazra/github-readme-stats)
+![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasugr&count_private=true)
 
 <!---
 vasugr/vasugr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
